@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Anis Othman
 
-<!--
-**anisothman/anisothman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at ISIMM Monastir  
+💻 Full-stack developer from Tunisia 🇹🇳  
+🚀 Passionate about web development, AI, and problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 Studying Computer Science at ISIMM (Monastir)  
+- 🌍 Based in Medenine, Tunisia  
+- 💡 Interested in Open Source, Web Applications, and Artificial Intelligence  
+- 📚 Currently improving my skills in backend development & system design  
+- 🔥 Always learning and building projects  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+Python 🐍 • Java ☕ • C ⚙️ • PHP 🐘 • JavaScript ⚡  
+
+### 🌐 Frontend
+HTML • CSS • JavaScript  
+
+### ⚙️ Tools & Technologies
+Git • GitHub • Supabase  
+
+---
+
+
+## 📫 Contact Me
+- 📧 Email: oanis052@email.com  
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving problems and turning ideas into real-world applications 🚀
